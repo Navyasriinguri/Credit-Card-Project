@@ -35,6 +35,9 @@ Slicers and Filters to enable drilldowns by gender, region, income, and card typ
 This project helped me strengthen my skills in:
 
 Data Visualization & Storytelling
+
 Business Intelligence Reporting
+
 Customer Segmentation
+
 KPI Monitoring & Trend Analysis
