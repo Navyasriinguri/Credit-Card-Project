@@ -24,12 +24,14 @@ Income groups with higher revenue: High-income and Medium-income
 Male customers contributed slightly more revenue than females
 
 **Tools Used**
+
 Power BI for dashboard development and interactivity
 DAX for calculated columns and KPIs
 Data Modeling to relate multiple datasets
 Slicers and Filters to enable drilldowns by gender, region, income, and card type
 
 **Learning Outcome**
+
 This project helped me strengthen my skills in:
 
 Data Visualization & Storytelling
