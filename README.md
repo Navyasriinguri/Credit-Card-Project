@@ -1,4 +1,7 @@
 # Credit-Card-Project
+<img width="1352" height="801" alt="image" src="https://github.com/user-attachments/assets/5823ea94-6910-4a61-a7d3-3adddd78e296" />
+<img width="1356" height="801" alt="image" src="https://github.com/user-attachments/assets/c549dc3a-0541-473f-9fe7-d55aff2c0b16" />
+
 
 ****Project Overview****
 
